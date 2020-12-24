@@ -1,0 +1,1 @@
+alert("Sky is red! ");
