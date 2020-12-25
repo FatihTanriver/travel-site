@@ -1,1 +1,1 @@
-alert("Sky is red! ");
+import '../styles/styles.css' ;
